@@ -1695,3 +1695,54 @@ body.light-mode {
 .light-mode .text-neutral-300 {
   color: #4b5563;
 }
+
+
+/* about page */
+
+.about-content{
+  align-items: center;
+  display: block;
+  padding: 20px;
+}
+
+.about-content h1{
+  text-align: center;
+  font-size: 35px;
+  padding: 20px;
+  transition: all 0.6s;
+}
+
+.about-content h1:hover{
+    /* text-decoration: underline;
+    scale:1.1; */
+    text-shadow: 2px 2px 4px #00b7ff;
+}
+
+.about-content p{
+  text-align: center;
+  font-size: 20px;
+  padding: 0 40px;
+  transition: all 0.6s;
+  margin-bottom: 50px;
+}
+
+.about-content .main{
+  display: flex;
+  flex-direction: row;
+  padding: 0 50px;
+  align-items: ce;
+
+}
+.about-content .main .sub{
+  display: flex;
+  padding: 0 50px;
+  flex-direction: column;
+
+}
+.banner img{
+ filter: contrast(1.2)
+}
+.tech{
+  flex-direction: row;
+  
+}
