@@ -30,7 +30,7 @@
 
 ## What is ResourceHub
 
-_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
+_ResourceHub_ is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community
 
 You can contribute with helpful resources you've discovered on the internet and share them with us!
 
@@ -39,15 +39,60 @@ You can contribute with helpful resources you've discovered on the internet and 
 Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
   - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
+  - [Backend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development)
+  - [Full stack Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Full%20stack%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
+    
+    - [MySQL](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database)/MySQL)
+
 - [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
 - [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
 - [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
 - [Programming Languages](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages)
+   - [Angular-JS](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/AngularJS)
+    - [C#](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C(sharp))
+    - [C++](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C%2B%2B)
+    - [C](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C)
+    - [Dart](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Dart)
+    - [ExpressJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/ExpressJs)
+    - [Elixir](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Elixir)
+    - [F#](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/F%23)
+    - [Go](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Go)
+    - [Haskell](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Haskell)
+    - [Java](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Java)
+    - [JavaScript](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/JavaScript)
+    - [Julia](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Julia)
+    - [Kotlin](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Kotlin)
+    - [LaTex](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/LaTex)
+    - [MATLAB](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/MATLAB)
+    - [NodeJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/NodeJs)
+    - [PHP](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/PHP)
+    - [Perl](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Perl)
+    - [Prolog](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Prolog)
+    - [Python](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Python)
+    - [R](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/R)
+    - [React-JS](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/React%20JS)
+    - [Ruby on Rails](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Ruby%20on%20Rails)
+    - [Ruby](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Ruby)
+    - [Rust](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Rust)
+    - [SQL](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/SQL)
+    - [Swift](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Swift)
+    - [TypeScript](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/TypeScript)
+    - [VueJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/VueJS)
+    - [XML](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/XML)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+- [Artificial Intelligence](https://github.com/jfmartinz/ResourceHub/tree/main/Artificial%20Intelligence)
+- [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
+  - [Competitive Programming](https://github.com/Chandana-756/ResourceHub/tree/Chandana-756-patch-1/Data%20Structures%20and%20Algorithm%20(DSA)/Competitive%20Programming)
+- [Operating System (OS)](https://github.com/jfmartinz/ResourceHub/tree/main/Operating%20System%20(OS))
+- [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
+- [Game Development](https://github.com/jfmartinz/ResourceHub/tree/main/Game%20Development)
+- [Computer Architecture](https://github.com/jfmartinz/ResourceHub/tree/main/Computer%20Architecture)
+- [Computer Networks](https://github.com/jfmartinz/ResourceHub/tree/main/Computer%20Networks)
+- [Cybersecurity](https://github.com/jfmartinz/ResourceHub/tree/main/Cybersecurity)
 
 
 ## Technologies
@@ -56,8 +101,11 @@ ResourceHub is built using the following technologies:
 - **Frontend**: HTML, CSS, JS
 - **Deployment**: Vercel
 
-> Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
+> Website URL: [ResourceHub](https://resourcehubdev.vercel.app/)
 
+## Organization
+![Organization](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
+ResourceHub is participating in GirlScript Summer of Code (GSSoC), an annual open-source program by the GirlScript Foundation. GSSoC promotes gender diversity and inclusion in tech by enabling participants to contribute to various projects under expert mentorship. We are excited to collaborate with talented individuals and advance our project through this initiative.
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:
